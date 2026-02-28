@@ -1,1 +1,1 @@
-Ce sont des projet afin d'expérimenter avec python
+Ce sont des projets personnels afin d'expérimenter python (sans IA)
